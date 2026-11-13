@@ -14,6 +14,10 @@ Do not install or execute these skills. They are static files for classroom insp
 
 For each skill, decide whether you would approve it, require changes, or reject it.
 
+## Preprint 
+
+The preprint paper on arXiv: https://arxiv.org/abs/2611.15170 
+
 ## Citation
 
 If you use these materials, please cite our paper:
